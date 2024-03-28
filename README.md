@@ -1,5 +1,5 @@
 # About
-A simple Jupyter Notebook that calculates various statistical values using numpy. 
+A simple Python Jupyter Notebook that calculates various statistical values using numpy. 
 
 # References
 - Midterm from university
